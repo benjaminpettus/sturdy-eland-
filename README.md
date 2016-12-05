@@ -1,4 +1,4 @@
-# sturdy-eland-
+# sturdy-eland
 
 ## Description
 
