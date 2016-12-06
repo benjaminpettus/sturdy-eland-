@@ -16,6 +16,7 @@ Javascript Tutorials:
 - [ ] JavaScript Basics
 - [ ] JavaScript Loops, Arrays and Objects
 - [ ] Node.js Basics
+      -Nodeschool: how to npm
 - [ ] Ember.js
 - [ ] Build a Simple Dynamic Site with Node.js
 - [ ] npm Basics
