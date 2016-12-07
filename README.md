@@ -10,31 +10,27 @@ Do you feel like you are not able to effectively communicate with your team mate
 Well now you can get an AWESOME, SOLID FOUNDATION to help you with this journey. This one week long cycle will OVERLOAD and EXPAND your MIND. This project will allow you to have a better understanding of all future javascript goals. 
 ## Specifications
 
-Javascript Tutorials:
+Javascript Tutorials (ZPD 7):
 - [ ] Programming Step-by-Step: Object-Oriented JavaScript
-- [ ] JQuery Basics
-- [ ] JavaScript Basics
-- [ ] JavaScript Loops, Arrays and Objects
-- [ ] Node.js Basics
-      -Nodeschool: how to npm
-- [ ] Ember.js
+- [ ] JavaScript Basics --FreeCodeCamp
+- [ ] JavaScript Loops, Arrays and Objects -- FreeCodeCamp
+- [ ] Node.js Basics  --Nodeschool: learnyounode && CodeSChool
+- [ ] npm Basics --Nodeschool: how to npm
 - [ ] Build a Simple Dynamic Site with Node.js
-- [ ] npm Basics
-- [ ] Angular Basics
-- [ ] Express Basics
-- [ ] Deploy a Node Application to Heroku
-- [ ] JavaScript Unit Testing
-- [ ] Build a REST API with Express
-- [ ] Gulp Basics
+- [ ] Express Basics -- CodeSchool
 - [ ] The Module Pattern in JavaScript
-- [ ] Using JQuery Plugins
-
-Databases:
 - [ ] Modifying Data with SQL
-- [ ] Reporting with SQL
 - [ ] SQL Basics
-- [ ] Mongo Basics
+- [ ] Reporting with SQL
+
+
 - [ ] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
+
+Stretch Goals:
+- [ ] Deploy a Node Application to Heroku
+- [ ] Build a REST API with Express
+- [ ] Gulp Basics --TreeHouse
+- [ ] Mongo Basics
 
 ---
 
