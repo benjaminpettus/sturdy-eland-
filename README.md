@@ -11,13 +11,21 @@ Well now you can get an AWESOME, SOLID FOUNDATION to help you with this journey.
 ## Specifications
 
 Javascript Tutorials (ZPD 7):
-- [ ] Programming Step-by-Step: Object-Oriented JavaScript
-- [ ] JavaScript Basics --FreeCodeCamp
-- [ ] JavaScript Loops, Arrays and Objects -- FreeCodeCamp
-- [ ] Node.js Basics  --Nodeschool: learnyounode && CodeSChool
-- [ ] npm Basics --Nodeschool: how to npm
+
+[X]  Programming Step-by-Step: Object-Oriented JavaScript --FreeCodeCamp(JS Basics)
+
+[x] JavaScript Basics --FreeCodeCamp(JS Basics)
+
+[x] JavaScript Loops, Arrays and Objects -- FreeCodeCamp(JS Basics)
+
+[x] Node.js Basics  --Nodeschool: learnyounode && CodeSChool
+
+[x] npm Basics --Nodeschool: how-to-npm
+
 - [ ] Build a Simple Dynamic Site with Node.js
-- [ ] Express Basics -- CodeSchool
+
+[x] Express Basics -- CodeSchool
+
 - [ ] The Module Pattern in JavaScript
 - [ ] Modifying Data with SQL
 - [ ] SQL Basics
