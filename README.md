@@ -34,11 +34,11 @@ Javascript Tutorials GOAL:
 [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 
 Stretch Goals:
+
 [x] Mongo Basics
 
 - [ ] Deploy a Node Application to Heroku
 - [ ] Build a REST API with Express
-- [ ] Gulp Basics --TreeHouse
 - [ ] Build a Simple Dynamic Site with Node.js
 - [ ] The Module Pattern in JavaScript
 
