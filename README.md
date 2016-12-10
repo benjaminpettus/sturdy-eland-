@@ -10,7 +10,7 @@ Do you feel like you are not able to effectively communicate with your team mate
 Well now you can get an AWESOME, SOLID FOUNDATION to help you with this journey. This one week long cycle will OVERLOAD and EXPAND your MIND. This project will allow you to have a better understanding of all future javascript goals. 
 ## Specifications
 
-Javascript Tutorials (ZPD 7):
+Javascript Tutorials GOAL:
 
 [X]  Programming Step-by-Step: Object-Oriented JavaScript --FreeCodeCamp(JS Basics)
 
@@ -22,23 +22,26 @@ Javascript Tutorials (ZPD 7):
 
 [x] npm Basics --Nodeschool: how-to-npm
 
-- [ ] Build a Simple Dynamic Site with Node.js
-
 [x] Express Basics -- CodeSchool
 
-- [ ] The Module Pattern in JavaScript
-- [ ] Modifying Data with SQL
-- [ ] SQL Basics
-- [ ] Reporting with SQL
+[x] Modifying Data with SQL
+
+[x] SQL Basics
+
+[x] Reporting with SQL
 
 
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
+[x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 
 Stretch Goals:
+[x] Mongo Basics
+
 - [ ] Deploy a Node Application to Heroku
 - [ ] Build a REST API with Express
 - [ ] Gulp Basics --TreeHouse
-- [ ] Mongo Basics
+- [ ] Build a Simple Dynamic Site with Node.js
+- [ ] The Module Pattern in JavaScript
+
 
 ---
 
